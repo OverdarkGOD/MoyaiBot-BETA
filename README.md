@@ -12,5 +12,7 @@ Make sure you install the requiste modules asked from the "Problems" console.
   ex: In Visual Studio Code, click the "Terminal" tab and click "New Terminal" and a console window will appear. In that console type "pip install (module)".
   (module) will be the module you are required to install to make the bot work. The issue will be displayed in the "problems console" for you to install. 
     
-If you run into any issues, send me a message and I will be happy to help.   
+If you run into any issues, send me a message and I will be happy to help.
+
+Edit (5/26): This repository of Moyai has been declared a beata version of the program. A newer version of Moyai is avalabile.
     
