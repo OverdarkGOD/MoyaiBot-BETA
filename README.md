@@ -14,5 +14,5 @@ Make sure you install the requiste modules asked from the "Problems" console.
     
 If you run into any issues, send me a message and I will be happy to help.
 
-Edit (5/26): This repository of Moyai has been declared a beata version of the program. A newer version of Moyai is avalabile.
+Edit (5/26): This repository of Moyai has been declared a beata version of the program. A newer version of Moyai is available.
     
